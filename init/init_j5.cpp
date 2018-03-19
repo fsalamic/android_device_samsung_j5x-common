@@ -77,3 +77,4 @@ void init_target_properties(void)
 	set_target_properties(build_id, bootloader_str, name, device, model,
 		       network_type, operator_alpha, operator_numeric, version_release);
 }
+

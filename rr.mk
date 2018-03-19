@@ -5,7 +5,7 @@ PRODUCT_RELEASE_NAME := Samsung Galaxy J5 2016
 TARGET_SCREEN_WIDTH := 720
 TARGET_SCREEN_HEIGHT := 1280
 
-# Inherit some common Lineage stuff.
+# Inherit some common Resurrection Remix stuff.
 $(call inherit-product, vendor/rr/config/common_full_phone.mk)
 
 # Inherit from those products. Most specific first.
